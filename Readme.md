@@ -1,4 +1,4 @@
 # Udacity Computer Vision Nanodegree 
 
-![cover](/Images/cover.png)
+![cover](/Images/cover.PNG)
 
